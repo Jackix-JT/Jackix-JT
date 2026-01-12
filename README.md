@@ -11,10 +11,12 @@ My goal is to leverage computational power to solve complex real-world problems,
 * **Bioinformatics:** scRNA-seq Analysis (Seurat v5), Data Visualization (ggplot2), Transcriptomics
 * **Tools:** Git, Linux, Docker (Learning)
 
-### 🔭 Current Focus
-* Developing pipelines for **cross-dataset mapping** of single-cell RNA sequencing data.
-* Analyzing **'PIP-seq' and '10x-genomics' datasets** to uncover biological insights.
-* Building robust and reproducible data analysis workflows.
+### 🔭 Current Research: 
+I am conducting a systematic comparison of **PIP-seq** and **10x Genomics** platforms to assess data quality and capture efficiency.
+
+* **Benchmarking:** Evaluating metrics including gene sensitivity, doublet rates, and mitochondrial content.
+* **Data Integration:** Assessing harmonization performance between different scRNA-seq chemistries.
+* **Pipeline Development:** Optimizing R/Seurat workflows for comparative analysis.
 
 ### 🌱 Personal Growth
 * 🇩🇪 **Language:** Intensive **German** learner (Deutsch lernen). Aiming for professional proficiency.
