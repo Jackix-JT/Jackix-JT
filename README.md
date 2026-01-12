@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm a CS Sophomore at BIUH! 👋
 
-<!--
-**Jackix-JT/Jackix-JT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a **Research Intern** at the **School of Medicine, Shanghai Jiao Tong University (Li Lab)**, bridging the gap between Computer Science and Life Sciences.
 
-Here are some ideas to get you started:
+My goal is to leverage computational power to solve complex real-world problems, with a strong interest in high-performance computing and data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+* **Languages:** R (Advanced), Python, C/C++
+* **Bioinformatics:** scRNA-seq Analysis (Seurat v5), Data Visualization (ggplot2), Transcriptomics
+* **Tools:** Git, Linux, Docker (Learning)
+
+### 🔭 Current Focus
+* Developing pipelines for **cross-dataset mapping** of single-cell RNA sequencing data.
+* Analyzing **'d7' and '10x' datasets** to uncover biological insights.
+* Building robust and reproducible data analysis workflows.
+
+### 🌱 Personal Growth
+* 💪 **Fitness:** Disciplined weightlifter (5x/week). Believer in "Sound body, sound mind."
+* 🇫🇷 **Language:** Learning **French** (En route vers la maîtrise!).
+* 📈 **Finance:** Crypto trading & Technical Analysis enthusiast.
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=minimal" alt="Stats" />
+</p>
