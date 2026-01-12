@@ -17,8 +17,8 @@ My goal is to leverage computational power to solve complex real-world problems,
 * Building robust and reproducible data analysis workflows.
 
 ### 🌱 Personal Growth
-* 💪 **Fitness:** Disciplined weightlifter (5x/week). Believer in "Sound body, sound mind."
-* 🇫🇷 **Language:** Learning **French** (En route vers la maîtrise!).
+* 🇩🇪 **Language:** Intensive **German** learner (Deutsch lernen). Aiming for professional proficiency.
+* 💪 **Fitness:** Disciplined weightlifter (5x/week). Believer in consistent progress.
 * 📈 **Finance:** Crypto trading & Technical Analysis enthusiast.
 
 ---
