@@ -13,7 +13,7 @@ My goal is to leverage computational power to solve complex real-world problems,
 
 ### 🔭 Current Focus
 * Developing pipelines for **cross-dataset mapping** of single-cell RNA sequencing data.
-* Analyzing **'d7' and '10x' datasets** to uncover biological insights.
+* Analyzing **'PIP-seq' and '10x-genomics' datasets** to uncover biological insights.
 * Building robust and reproducible data analysis workflows.
 
 ### 🌱 Personal Growth
