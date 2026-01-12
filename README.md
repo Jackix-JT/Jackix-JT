@@ -24,5 +24,5 @@ My goal is to leverage computational power to solve complex real-world problems,
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=minimal" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jackix-JT&show_icons=true&theme=minimal" alt="Stats" />
 </p>
